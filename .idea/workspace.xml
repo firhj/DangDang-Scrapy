@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="68e4bc85-5a3c-48bc-85ee-b0c2f4601c42" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1b9pk14GbiAI8T8MofYJYbyjjLC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../untitled8" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dangdang" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dangdang/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dangdang/spiders/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68e4bc85-5a3c-48bc-85ee-b0c2f4601c42" name="Default Changelist" comment="" />
+      <created>1588054302927</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588054302927</updated>
+      <workItem from="1588054304411" duration="9555000" />
+      <workItem from="1588064017548" duration="254000" />
+      <workItem from="1588074896866" duration="3182000" />
+      <workItem from="1588083453647" duration="640000" />
+      <workItem from="1588121733373" duration="1095000" />
+      <workItem from="1588122864329" duration="110000" />
+      <workItem from="1588159873282" duration="2383000" />
+      <workItem from="1588250142504" duration="73000" />
+      <workItem from="1590902436258" duration="263000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="393" y="45" key="FileChooserDialogImpl" timestamp="1588122108021">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="393" y="45" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1588122108021" />
+    <state width="1291" height="153" key="GridCell.Tab.0.bottom" timestamp="1588163987469">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1291" height="153" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588163987469" />
+    <state width="1291" height="153" key="GridCell.Tab.0.center" timestamp="1588163987469">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1291" height="153" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588163987469" />
+    <state width="1291" height="153" key="GridCell.Tab.0.left" timestamp="1588163987469">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1291" height="153" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588163987469" />
+    <state width="1291" height="153" key="GridCell.Tab.0.right" timestamp="1588163987469">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1291" height="153" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588163987469" />
+    <state width="1291" height="182" key="GridCell.Tab.1.bottom" timestamp="1588078082681">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1291" height="182" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588078082681" />
+    <state width="1291" height="182" key="GridCell.Tab.1.center" timestamp="1588078082681">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1291" height="182" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1588078082681" />
+    <state width="1291" height="182" key="GridCell.Tab.1.left" timestamp="1588078082681">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1291" height="182" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1588078082681" />
+    <state width="1291" height="182" key="GridCell.Tab.1.right" timestamp="1588078082681">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1291" height="182" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1588078082681" />
+    <state x="51" y="0" key="SettingsEditor" timestamp="1588250192830">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="51" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1588250192830" />
+    <state x="273" y="148" key="com.intellij.ide.util.TipDialog" timestamp="1590902435483">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="273" y="148" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1590902435483" />
+    <state x="260" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1588061506647">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="260" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1588061506647" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/dangdang$run.coverage" NAME="run Coverage Results" MODIFIED="1588163292500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dangdang/spiders" />
+  </component>
+</project>
