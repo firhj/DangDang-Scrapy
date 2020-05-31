@@ -1,1 +1,4 @@
 Test for Dangdang book scrapy
+
+可以爬取当当网指定类别的书籍信息
+保存到相关目录excel文件
